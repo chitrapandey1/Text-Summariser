@@ -6,6 +6,6 @@ _Preview_:
 
 <img width="221" alt="image" src="https://github.com/user-attachments/assets/ab4986de-7c07-4965-971f-503f677ad093">
 
-Libraries Used:
+_Libraries Used_:
 1. NLTK
 2. Streamlit
